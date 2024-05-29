@@ -2,6 +2,10 @@
 
 image:https://img.shields.io/badge/vert.x-4.5.8-purple.svg[link="https://vertx.io"]
 
+A private server for the Jackbox games, made out of obligation for a school project.
+
+= Please use this server instead https://github.com/StratusFearMe21/jonahbox
+
 This application was generated using http://start.vertx.io
 
 == Building
